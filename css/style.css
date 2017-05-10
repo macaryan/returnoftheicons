@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1.3em;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    background-size: cover;
+    color: #000000;
+}
+
+.row1 {
+    height: 400px;
+    color: 343D44;
+    padding: 50px; 
+}
+
+.row2 {
+    height: 400px;
+    color: #D13A39;
+    padding: 50px;
+} 
